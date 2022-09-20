@@ -1,4 +1,4 @@
-![logo](https://github.com/YashikaBehl/YashikaBehl/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
+![logo](https://github.com/YashikaBehl/YashikaBehl/blob/main/Purple%20Pink%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Yashika Behl</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
